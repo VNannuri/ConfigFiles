@@ -1,0 +1,18 @@
+[
+	{
+		"BaseURL":"https://raw.githubusercontent.com",
+		"RelativeURL":"VNannuri/Azure2024/main/Lottery_Powerball_Winning_Numbers__Beginning_2010.csv",
+		"FileName":"Lottery_Powerball_Winning_Numbers__Beginning_2010.csv"
+	},
+	{
+		"BaseURL":"https://raw.githubusercontent.com",
+		"RelativeURL":"VNannuri/Azure2024/main/Popular_Baby_Names.csv",
+		"FileName":"Popular_Baby_Names.csv"
+	},
+
+	{
+		"BaseURL":"https://raw.githubusercontent.com",
+		"RelativeURL":"VNannuri/Azure2024/main/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv",
+		"FileName":"SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv"
+	}
+]
